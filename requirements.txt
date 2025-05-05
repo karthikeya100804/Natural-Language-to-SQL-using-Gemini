@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-openpyxyl
+openpyxl
 python-dotenv
 google-generativeai
