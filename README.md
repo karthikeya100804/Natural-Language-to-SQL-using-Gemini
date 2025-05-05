@@ -33,14 +33,14 @@ source venv/bin/activate       # On Windows: venv\Scripts\activate
 # 3. Install Python dependencies
 pip install -r requirements.txt
 
-# 4. Create your .env file with your Gemini API key
+# 4. Create your .env file with your Gemini API key and copy paste the following
 GEMINI_API_KEY=your_google_gemini_api_key_here
 
 # 5. Create .env and paste your Gemini API key
 # You can get it from https://aistudio.google.com/app/apikey
 
 #6. Run code
-#streamlit run app.py
+streamlit run app.py
 ```
 ---
 ## 📁 Project Structure
