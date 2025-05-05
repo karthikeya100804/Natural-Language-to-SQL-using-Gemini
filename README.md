@@ -18,7 +18,11 @@ This Streamlit-based app allows you to:
 -  Download updated data as Excel
 
 ---
+## 🌐 Live App
 
+👉 [Try it on Streamlit!](https://nl2sql-gemini.streamlit.app/)
+
+---
 ## 🛠️ Local Setup Instructions
 
 ```
