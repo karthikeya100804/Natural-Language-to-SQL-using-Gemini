@@ -1,0 +1,31 @@
+# Ignore the virtual environment directory
+venv/
+ 
+# Ignore SQLite database file
+user_data.db
+
+# Ignore environment variable file (.env) containing sensitive API keys
+.env
+
+# Ignore Excel files or any other large data files you may upload
+*.xlsx
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the .idea directory (if using JetBrains IDEs like PyCharm)
+.idea/
+
+# Ignore any log files
+*.log
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore Windows specific files
+Thumbs.db
